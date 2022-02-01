@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\BIBKA\BIBKA\bin\Debug\BIBKA.exe.config
+C:\Users\user\source\repos\BIBKA\BIBKA\bin\Debug\BIBKA.exe
+C:\Users\user\source\repos\BIBKA\BIBKA\bin\Debug\BIBKA.pdb
+C:\Users\user\source\repos\BIBKA\BIBKA\obj\Debug\BIBKA.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BIBKA\BIBKA\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\BIBKA\BIBKA\obj\Debug\App.g.cs
+C:\Users\user\source\repos\BIBKA\BIBKA\obj\Debug\BIBKA_MarkupCompile.cache
+C:\Users\user\source\repos\BIBKA\BIBKA\obj\Debug\BIBKA_MarkupCompile.lref
+C:\Users\user\source\repos\BIBKA\BIBKA\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\BIBKA\BIBKA\obj\Debug\BIBKA.g.resources
+C:\Users\user\source\repos\BIBKA\BIBKA\obj\Debug\BIBKA.Properties.Resources.resources
+C:\Users\user\source\repos\BIBKA\BIBKA\obj\Debug\BIBKA.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BIBKA\BIBKA\obj\Debug\BIBKA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BIBKA\BIBKA\obj\Debug\BIBKA.exe
+C:\Users\user\source\repos\BIBKA\BIBKA\obj\Debug\BIBKA.pdb
